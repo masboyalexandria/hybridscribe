@@ -1,0 +1,3 @@
+Sprint planning — 18 Nov. Present: Dita, Raka, Bimo, Sari.
+
+We agreed the beta launch moves to the first week of December. The onboarding flow is the top priority. Todo: Dita needs to send the revised wireframes to the design channel by Thursday. Raka must call the payment provider about the sandbox keys before Friday. We need to book a user-testing session with five participants next week. Bimo will follow up on the crash reports from the Android build. Deadline for the freeze is the 28th. Sari to draft the release notes.
